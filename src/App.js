@@ -9,7 +9,7 @@ const choice = {
   },
   scissors: {
     name: "가위",
-    img: "https://cdn.imweb. me/thumbnail/20200514/7fc8b1411fa8d.png",
+    img: "https://cdn-icons-png.flaticon.com/512/4975/4975327.png",
   },
   paper: {
     name: "보",
