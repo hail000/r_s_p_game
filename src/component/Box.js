@@ -14,6 +14,7 @@ const Box = (props) => {
     <div className="Box">
       <h1>{props.use}</h1>
       <h1>{props.item && props.item.name}</h1>
+      <img className="item-img" src={props.item && props.item.img}></img>
       <h1>{result}</h1>
     </div>
   );
