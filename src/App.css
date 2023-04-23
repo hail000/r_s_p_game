@@ -1,0 +1,21 @@
+.game_name{
+  display: flex;
+  justify-content: center;
+  color: blue;
+}
+
+.game_UI{
+  display: flex;
+  justify-content: center;
+} 
+
+.Box{
+  width: 200px;
+  height: 200px;
+  border: 2px solid black;
+}
+
+.Box h1{
+  display: flex;
+  justify-content: center;
+}
